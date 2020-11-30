@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CAFORGST</string>
+    <string name="have_not_received_it_yet_resend">Have not received it yet? <a href="ITRActivity"><u>Resend</u></a></string>
+
+</resources>
