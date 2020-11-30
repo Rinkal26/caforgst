@@ -188,6 +188,7 @@ public class RegistrationActivity extends AppCompatActivity {
                 showError(dob,"Enter date of birth");
             }
 
+
              else if(userpincode.length()>6)
              {
                 showError(pincode,"Enter valid pincode");
